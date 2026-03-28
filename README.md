@@ -25,6 +25,14 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 - Logging to file
 - Error handling
 
+5.* 🌄 **Screenshots**
+<h2 align="center">📱 App Preview</h2>
+
+<p align="center">
+  <img src="https://github.com/DheerajPandey88/trading-bot/blob/8a91cb24224fd264c192cc6f99d3e39e715cdd3f/Screenshot%202026-03-29%20010148.png" width="250">
+</p>
+
+
 ## Logs
 Check logs in:
 logs/bot.log
